@@ -1,0 +1,17 @@
+name: MazeCoins
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+api-version: "1.21"
+commands:
+  maze:
+    description: Enter the mob maze and begin its tasks.
+    usage: /maze
+  shop:
+    description: Open the Minecoins shop.
+    usage: /shop
+  minecoins:
+    description: View your Minecoins balance.
+    usage: /minecoins
+  exitserver:
+    description: Leave the server.
+    usage: /exitserver
